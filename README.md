@@ -64,7 +64,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 
 ## Requirements
 
-- **Python 3.8+**
+- **Python 3.11**
 - **SQL Databases**: MySQL, PostgreSQL
 - **Python Libraries**:
   - `pandas`, `numpy`, `sqlalchemy`, `mysql-connector-python`, `psycopg2`
